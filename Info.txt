@@ -1,1 +1,1 @@
-Hello123
+docker swarm join --token SWMTKN-1-641etc0m7b9bnwk2dsbhqo55fpxr6qh57d6cqjyg5c46aqgcwb-1s9vrqa8by75fjl7siy1ethoo 174.129.107.60:2377
